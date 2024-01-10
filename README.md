@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esla Dankuje
-- 👀 I’m interested in web and inovative technologies
+- 👀 I’m interested in web and innovative technologies
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on amazing projects
 - 📫 How to reach me alsenad390@gmail.com
