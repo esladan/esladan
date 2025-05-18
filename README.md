@@ -36,49 +36,6 @@ I actively participate in online courses, tech forums, and industry events to en
 
 ---
 
-## 💼 Projects
-
-### [SauriMobile](https://esladan.eslatra.com)
-
-A comprehensive travel platform simplifying transportation bookings across buses, trains, and flights. Features include:
-
-- Route searches
-- Ticket price comparisons
-- Real-time seat selection
-- Mobile payments
-- Instant ticket delivery
-
-Available on Android and iOS for convenient access.
-
-### [HelloSauri](https://esladan.eslatra.com)
-
-An all-in-one digital platform revolutionizing travel planning by offering streamlined ticket booking for trains, buses, and flights. Key features:
-
-- Search and compare tickets from various providers
-- Clear pricing and route options
-- Integration with trusted partners for reliable service
-- Mobile-friendly interface for hassle-free planning
-
-### [Qiit Technologies](https://esladan.eslatra.com)
-
-A tech-forward company specializing in digital transformation through cutting-edge software solutions. Expertise includes:
-
-- Mobile app development
-- AI and machine learning
-- Cloud services
-- Custom software solutions
-
-Collaborating closely with businesses to design scalable applications and drive technological innovation.
-
-### [Sockets Luxury](https://esladan.eslatra.com)
-
-An upscale online boutique offering high-end luxury items, including fashion accessories and bespoke home decor. Highlights:
-
-- Curated collection of premium brands
-- Personalized shopping experience
-- Secure transactions and high-quality visuals
-
----
 
 ## 🤝 Let's Collaborate
 
